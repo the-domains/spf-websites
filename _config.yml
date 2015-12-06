@@ -1,6 +1,6 @@
 name: SPF Websites
 favicon: null
-layout_spectrum: 0.35841934755444527
+layout_spectrum: 0.9123
 typography_spectrum: 0.29356424743309617
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0.39203824615105987
-  lightness: 0.6242726505734026
-  saturation: 0.35076719406060874
-  rhythmicContrast: 0.49796527344733477
+  lightness: 0.0625
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
